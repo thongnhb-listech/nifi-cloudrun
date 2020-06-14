@@ -79,7 +79,7 @@ Processors:
     Default URL Character Set: UTF-8
     HTTP Context Map: b75b502c-758a-39be-0000-000000000000
     Hostname:
-    Listening Port: '${PORT}'
+    Listening Port: '8080'
     SSL Context Service:
 - id: 36e15f38-674d-3464-0000-000000000000
   name: HandleHttpResponse
