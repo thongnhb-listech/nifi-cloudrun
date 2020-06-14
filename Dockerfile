@@ -8,5 +8,4 @@ ADD *.nar $MINIFI_HOME/lib/
 
 RUN chown -R minifi:minifi $MINIFI_HOME
 
-EXPOSE 8080
 USER minifi
